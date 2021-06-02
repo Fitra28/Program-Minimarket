@@ -4,7 +4,7 @@
     <title>penjualan</title>
 </head>
 <body>
-<form name="frm_penjualan" targwt="_self" action="" method="GET">
+<form name="frm_penjualan" target="_self" action="" method="GET">
     <table>
         <caption>Form Minimarket</caption>
         <tr>
